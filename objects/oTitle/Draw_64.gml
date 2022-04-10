@@ -4,6 +4,6 @@ draw_clear(c_black);
 draw_set_font(font_0);
 draw_set_colour(c_white);
 
-draw_text(200,250,"Press fire to start");
+draw_text(200,250,"Left click to start");
 
 

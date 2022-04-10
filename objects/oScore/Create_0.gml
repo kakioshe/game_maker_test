@@ -1,3 +1,3 @@
 /// @description Score Initialise
 
-myscore = 0;
+myscore = 1000;
